@@ -1263,12 +1263,12 @@ Depends: libc, curl, jsonfilter, luci-lua-runtime
 Source: /feed/luci/luci-theme-argon
 SourceName: luci-theme-argon
 Section: luci
-SourceDateEpoch: 1703411485
+SourceDateEpoch: 1703730458
 Maintainer: OpenWrt LuCI community
 Architecture: all
-Installed-Size: 390236
+Installed-Size: 390287
 Filename: luci-theme-argon_2.3.1_all.ipk
-Size: 390914
-SHA256sum: de4e0b90bed41e97c026086f7ff72aa8962f7c2be653184a29fa94ab82930296
+Size: 390941
+SHA256sum: c1ecbfc8da1a1863760356bfa8d2c9e7f91458577a9dcefd580a3923715dde87
 Description:  Argon Theme
 

@@ -926,9 +926,9 @@ Version: 2.3.1
 Depends: libc, curl, jsonfilter
 Section: luci
 Architecture: all
-Installed-Size: 390236
+Installed-Size: 390287
 Filename: luci-theme-argon_2.3.1_all.ipk
-Size: 390906
-SHA256sum: d611195441d670de45260a3d4c0f0743f54512239cacf7679c49876676b8213f
+Size: 390933
+SHA256sum: dbcf1f8c29782b4d006bd8d72b690703cebbdbf72190322a7aef904ea9327318
 Description:  Argon Theme
 

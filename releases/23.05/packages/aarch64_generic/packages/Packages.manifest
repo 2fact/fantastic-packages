@@ -468,13 +468,13 @@ SourceName: plain-nginx
 License: MIT
 LicenseFiles: LICENSE
 Section: net
-SourceDateEpoch: 1703585995
+SourceDateEpoch: 1704014236
 Maintainer: muink <hukk1996@gmail.com>
 Architecture: all
-Installed-Size: 366
+Installed-Size: 367
 Filename: plain-nginx_20231028_all.ipk
-Size: 1167
-SHA256sum: 2fb0ceb0c3a2456661c26b4b1a60142bb77b2a35780d20c5ee2776e13a5ffe12
+Size: 1161
+SHA256sum: 65860d745e9977aac420eaef320fd789793d8bbacf20b7b8df3da5995ef871f8
 Description:  Read text document directly
 
 Package: qbittorrent
@@ -656,12 +656,12 @@ SourceName: speedtest-go
 License: MIT
 LicenseFiles: LICENSE
 Section: net
-SourceDateEpoch: 1703585462
+SourceDateEpoch: 1703587154
 Architecture: aarch64_generic
-Installed-Size: 4796503
+Installed-Size: 4796506
 Filename: speedtest-go_1.6.10-1_aarch64_generic.ipk
-Size: 4784451
-SHA256sum: f9ee1842a8dd648c7caa70373ccdbf3588ff8a4021cb7b55adda4a011a540336
+Size: 4784489
+SHA256sum: 843f2a5dfd6f1efd7392206ad72504ae27711adced7dae4ebb8d4226db96289f
 Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 

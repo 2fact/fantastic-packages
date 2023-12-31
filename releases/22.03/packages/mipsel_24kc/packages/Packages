@@ -346,10 +346,10 @@ Depends: libc, luci-nginx
 License: MIT
 Section: net
 Architecture: all
-Installed-Size: 366
+Installed-Size: 367
 Filename: plain-nginx_20231028_all.ipk
-Size: 1164
-SHA256sum: 7eb55f372aa312bd3c10768ce043d39b044ea06bc856ec8d0c435bd79ebab584
+Size: 1160
+SHA256sum: 944e5c106ae767db079d1d8a35343c06cbda1471fe07398d6df6da5d1a5c9745
 Description:  Read text document directly
 
 Package: qbittorrent
@@ -492,10 +492,10 @@ Depends: libc, ca-bundle
 License: MIT
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 4492753
+Installed-Size: 4492750
 Filename: speedtest-go_1.6.10-1_mipsel_24kc.ipk
-Size: 4483429
-SHA256sum: 5015c1a1f5a55c451d16ce6366f084bbfc4d42225a8473f5fab5e55c20042683
+Size: 4483385
+SHA256sum: b7772de4e5ada32908eab6006b20c290c0330ebf9bc89ed29314802062f349cb
 Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 

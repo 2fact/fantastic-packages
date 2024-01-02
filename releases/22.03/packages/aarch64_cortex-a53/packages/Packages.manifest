@@ -632,20 +632,20 @@ Description:  Rasterbar libtorrent is a C++ library that aims to be a good alter
  full featured client, although it comes with a working example client.
 
 Package: rgmac
-Version: 1.5.0-20231209
+Version: 1.5.0-20240101
 Depends: libc, bash, curl, coreutils-cksum, getopt
 Source: /feed/packages/openwrt-rgmac
 SourceName: rgmac
 License: MIT
 LicenseFiles: LICENSE
 Section: net
-SourceDateEpoch: 1702055725
+SourceDateEpoch: 1704169571
 Maintainer: muink <hukk1996@gmail.com>
 Architecture: all
 Installed-Size: 3653
-Filename: rgmac_1.5.0-20231209_all.ipk
+Filename: rgmac_1.5.0-20240101_all.ipk
 Size: 4475
-SHA256sum: edcb5dd859de5fff28d51f72c0e06303275508e316dd0f419a659a5ccc982925
+SHA256sum: b02f60974df7d82a5be269329a0bd3ca0e38fe7a81fb96612766986505123f6c
 Description:  A random MAC address generator
 
 Package: speedtest-go

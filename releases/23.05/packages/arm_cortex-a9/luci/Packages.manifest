@@ -140,18 +140,18 @@ SHA256sum: 9447ba789f29af406ef6996bbc04a9b30c50aa461dcee44ac29023c674214de4
 Description:  Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 
 Package: luci-app-homeproxy
-Version: git-24.006.26925-14c46a1
+Version: git-24.007.56576-53af438
 Depends: libc, sing-box, chinadns-ng, firewall4, kmod-nft-tproxy, unzip
 Source: /feed/luci/luci-app-homeproxy
 SourceName: luci-app-homeproxy
 Section: luci
-SourceDateEpoch: 1704526125
+SourceDateEpoch: 1704642176
 Maintainer: OpenWrt LuCI community
 Architecture: all
-Installed-Size: 376722
-Filename: luci-app-homeproxy_git-24.006.26925-14c46a1_all.ipk
-Size: 377732
-SHA256sum: fe160044d6fdf5ad6fbb16679b543e0e37198710a62c6a702c5f2809108a4989
+Installed-Size: 376743
+Filename: luci-app-homeproxy_git-24.007.56576-53af438_all.ipk
+Size: 377762
+SHA256sum: c1551b52e0a3e7af08db64f02ed91bbc571b6ae1ef31bd4d48bd5b1bbb9f6294
 Description:  The modern ImmortalWrt proxy platform for ARM64/AMD64
 
 Package: luci-app-interfaces-statistics
@@ -643,17 +643,17 @@ SHA256sum: bf86cf5a6ea1a89d4bb9e911b13f842d08bba354b7c1b5a012deda18d7161b27
 Description:  Translation for luci-app-disks-info - Русский (Russian)
 
 Package: luci-i18n-homeproxy-zh-cn
-Version: git-24.006.26925-14c46a1
+Version: git-24.007.56576-53af438
 Depends: libc, luci-app-homeproxy
 Source: /feed/luci/luci-app-homeproxy
 SourceName: luci-i18n-homeproxy-zh-cn
 Section: luci
-SourceDateEpoch: 1704526125
+SourceDateEpoch: 1704642176
 Architecture: all
-Installed-Size: 10421
-Filename: luci-i18n-homeproxy-zh-cn_git-24.006.26925-14c46a1_all.ipk
-Size: 11255
-SHA256sum: 8d0a82532befcd0bca74176e2aaa95a8e249c60f0a70ac14a14a539e1ab0245c
+Installed-Size: 10420
+Filename: luci-i18n-homeproxy-zh-cn_git-24.007.56576-53af438_all.ipk
+Size: 11263
+SHA256sum: f09ac6fb5715e6c5643c1dc0deddc99bea173aedbb0b8f318d26e973b32c9512
 Description:  Translation for luci-app-homeproxy - 简体中文 (Chinese Simplified)
 
 Package: luci-i18n-interfaces-statistics-ru

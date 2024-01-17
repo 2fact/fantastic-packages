@@ -27,10 +27,10 @@ Require-User: alwaysonline:alwaysonline
 SourceDateEpoch: 1702876452
 Maintainer: muink <hukk1996@gmail.com>
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 1829740
+Installed-Size: 1829739
 Filename: alwaysonline_1.2.0-20231217_arm_cortex-a15_neon-vfpv4.ipk
-Size: 1827278
-SHA256sum: 3f281668a7972c99f7d13d0231373929345501518dee731bd9ffb4d28e0e5102
+Size: 1827284
+SHA256sum: 21c205eccc3f271e928061bb49245a860b5eaec1ce9d724329bde44528290b58
 Description:  AlwaysOnline is a HTTP and DNS server which mocks a lot network/internet/portal detection servers.
 
 Package: chinadns-ng
@@ -63,8 +63,8 @@ Maintainer: muink <hukk1996@gmail.com>
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 836791
 Filename: go-stun_0.1.4-9_arm_cortex-a15_neon-vfpv4.ipk
-Size: 837242
-SHA256sum: 15b75645183bbf12337132a88a9f12b7ef7f7da7302e0807f18aa2948cc18a50
+Size: 837189
+SHA256sum: af136ba5f5e68e3cc101abc6b109eb8164e0ab11c0e697fbecaa53cb131e6854
 Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
  RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
  RFC 5389: Session Traversal Utilities for NAT (STUN)
@@ -96,8 +96,8 @@ SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 6606
 Filename: libQt6Concurrent_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 7383
-SHA256sum: 25b9430ce1a1178c084d5c5abe343d0a84815b1d865b2aa1bfd8af5568cc66cd
+Size: 7385
+SHA256sum: c111c595af2692e1d6b83138e53b433c0b86f2e68576c39dd1bed40f6e6b17d0
 Description:  This package provides the Qt6 Concurrent v6.6.1 library.
 
 Package: libQt6Core
@@ -108,10 +108,10 @@ SourceName: libQt6Core
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 2613836
+Installed-Size: 2613834
 Filename: libQt6Core_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 2598829
-SHA256sum: 80df267d0abcf2feee3401e24fdd149f09c1d2265a5a5eeb2097aba5c8ecc081
+Size: 2598822
+SHA256sum: adc8bd2a91f737ff0c475b78fc87873ece917d5f7a22c32b472fdbc219858cc8
 Description:  This package provides the Qt6 Core v6.6.1 library.
 
 Package: libQt6DBus
@@ -122,10 +122,10 @@ SourceName: libQt6DBus
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 308444
+Installed-Size: 308442
 Filename: libQt6DBus_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 307049
-SHA256sum: 1c993f38a3cd4dd6a0a72f3025b67b0450cb4d3b4626085ecb36c9a1df552c16
+Size: 307052
+SHA256sum: 1d60d7da14a7176c0e381871ab2c551d1413646ae24246ac52e7c30cacc5c641
 Description:  This package provides the Qt6 DBus v6.6.1 library.
 
 Package: libQt6Gui
@@ -136,10 +136,10 @@ SourceName: libQt6Gui
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 2606565
+Installed-Size: 2606563
 Filename: libQt6Gui_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 2591651
-SHA256sum: f05dbc0841722f44cd7a20467507b3dd91590b122851a0344b51d178545d2591
+Size: 2591643
+SHA256sum: 6937c8ce9e1247b7a35a49a93901304d97b9b6cf59aa7787299c8c27c9734e2c
 Description:  This package provides the Qt6 Gui v6.6.1 library.
 
 Package: libQt6Network
@@ -150,10 +150,10 @@ SourceName: libQt6Network
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 703634
+Installed-Size: 703633
 Filename: libQt6Network_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
 Size: 698774
-SHA256sum: 87bfcdab246a8a8419039a85f95dcf876356cada8e07f9c05ec8a5b2a3e1e422
+SHA256sum: 387a0848ae2927d8dbe8ac7b743935388fa6608fd54600bb5a3827f236960d5e
 Description:  This package provides the Qt6 Network v6.6.1 library.
 
 Package: libQt6PrintSupport
@@ -164,10 +164,10 @@ SourceName: libQt6PrintSupport
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 150235
+Installed-Size: 150233
 Filename: libQt6PrintSupport_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 149561
-SHA256sum: 3341843418bf65fc6c037bcf0aa5db3493b6d69f35aea385e619032f4f340f93
+Size: 149552
+SHA256sum: cbe1e93f05931b8c5b70d66aea895fd6de0e03625a91d97a5392ec71d32e0c81
 Description:  This package provides the Qt6 PrintSupport v6.6.1 library.
 
 Package: libQt6Sql
@@ -178,10 +178,10 @@ SourceName: libQt6Sql
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 74203
+Installed-Size: 74202
 Filename: libQt6Sql_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 74375
-SHA256sum: 38882f3c12731bb92ea4a60cd8397430c986a62ad8bae7e23f48ba588923c717
+Size: 74368
+SHA256sum: 5847e354b8d308a481d7c1f07234c324eace6ef3a130ecb2b06a760497170727
 Description:  This package provides the Qt6 Sql v6.6.1 library.
 
 Package: libQt6Test
@@ -192,10 +192,10 @@ SourceName: libQt6Test
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 123603
+Installed-Size: 123601
 Filename: libQt6Test_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 123630
-SHA256sum: 5f1ab4e1f045d471cda129dcd69d0ec036a5402955e9afa6293a80f0596ddad4
+Size: 123632
+SHA256sum: a92c7b51ca1298295bace6aa14b3aa5c32f731c31f8cf5182945cb2fd687628d
 Description:  This package provides the Qt6 Test v6.6.1 library.
 
 Package: libQt6Widgets
@@ -206,10 +206,10 @@ SourceName: libQt6Widgets
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 2907846
+Installed-Size: 2907843
 Filename: libQt6Widgets_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 2887929
-SHA256sum: ef6182d066868fe44406d713c6db126316e00a16b0b506da8ab67f834ae34ec7
+Size: 2887931
+SHA256sum: 605c75911a4848044f80e2f47997aa1b18ef1525cb374c2bf57499dcdfcffb14
 Description:  This package provides the Qt6 Widgets v6.6.1 library.
 
 Package: libQt6Xml
@@ -220,10 +220,10 @@ SourceName: libQt6Xml
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 56605
+Installed-Size: 56603
 Filename: libQt6Xml_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 57037
-SHA256sum: 215f66953933d869bfd6d9e3eb9e3dc81fd4919735e1262b2e1acc95cce7fc26
+Size: 57028
+SHA256sum: 6d39ad9cae5b7523f33c51dde1ff3ff7df9c8896359d8943a23fc653adf56722
 Description:  This package provides the Qt6 Xml v6.6.1 library.
 
 Package: natmapt-client-script-deluge
@@ -489,10 +489,10 @@ Section: net
 SourceDateEpoch: 1701272128
 CPE-ID: cpe:/a:qbittorrent:qbittorrent
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 7749458
+Installed-Size: 7749457
 Filename: qbittorrent_4.6.2-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 7746300
-SHA256sum: 67dc0017285a412d16d233615d26ad4a6f710cda87ca19acce24394800a615a2
+Size: 7746299
+SHA256sum: 71c9a6469e65308eeed50dfc3e5a221e8b30ab98d5b34c7fae4ff0f1afa82aba
 Description:  qBittorrent is a bittorrent client programmed in C++ / Qt that uses
  libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg.
  It aims to be a good alternative to all other bittorrent clients out
@@ -507,10 +507,10 @@ SourceName: qt6-plugin-libqcertonlybackend
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 33666
+Installed-Size: 33663
 Filename: qt6-plugin-libqcertonlybackend_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
 Size: 34444
-SHA256sum: f7ea1f36d04b5fba9ebf62a701c724cf9a2a11d75cf089a85125220a06cd5cb0
+SHA256sum: 804cebaa9cb17881c4338ba431166b734ddca56c46e98a1c62c586c47cddec7f
 Description:  Qt6 Plugin libqcertonlybackend
 
 Package: qt6-plugin-libqminimal
@@ -521,10 +521,10 @@ SourceName: qt6-plugin-libqminimal
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 8067
+Installed-Size: 8066
 Filename: qt6-plugin-libqminimal_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 8816
-SHA256sum: cc888226c860ea77cf85110a672913eba8ad9fc2b7f3daf65d656bfe710a4ea5
+Size: 8818
+SHA256sum: c480bbc7b1afdebd69751f87e0dd7cf96b6e6644ef2b2b3818a81c64a57cbf0e
 Description:  Qt6 Plugin libqminimal
 
 Package: qt6-plugin-libqnetworkmanager
@@ -537,8 +537,8 @@ SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
 Installed-Size: 24292
 Filename: qt6-plugin-libqnetworkmanager_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 24936
-SHA256sum: 614c296bb4363b1a61d1a6b7093001c6d00346b62de256a6096e998eb3f5a4c5
+Size: 24939
+SHA256sum: 675b5ad2beefe6102034032078bbb219da0d95762d0b05a024a5bc8f298e99a2
 Description:  Qt6 Plugin libqnetworkmanager
 
 Package: qt6-plugin-libqoffscreen
@@ -549,10 +549,10 @@ SourceName: qt6-plugin-libqoffscreen
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 36190
+Installed-Size: 36188
 Filename: qt6-plugin-libqoffscreen_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 36748
-SHA256sum: e42cc6c614311a5bdfeadf883f4624e1c2b542bb6f12cb4baf53db9fc5e44113
+Size: 36746
+SHA256sum: 11462b11ce478715b62f922aa3f08d44891f0886acb248259a01ecd09829e167
 Description:  Qt6 Plugin libqoffscreen
 
 Package: qt6-plugin-libqopensslbackend
@@ -563,10 +563,10 @@ SourceName: qt6-plugin-libqopensslbackend
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 109451
+Installed-Size: 109449
 Filename: qt6-plugin-libqopensslbackend_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 109596
-SHA256sum: 6800227bdf29348880fe4566707e4a5fa823bfd27b40d68753890b198fab5b31
+Size: 109593
+SHA256sum: 2b4762f440fd84f80c805443d8b0f55fc95db5b7988106ec65362f89c5c14a66
 Description:  Qt6 Plugin libqopensslbackend
 
 Package: qt6-plugin-libqsqlite
@@ -577,10 +577,10 @@ SourceName: qt6-plugin-libqsqlite
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 893845
+Installed-Size: 893844
 Filename: qt6-plugin-libqsqlite_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 893256
-SHA256sum: aece5e1f62ddad7f5e0a15a9773e227c703f86cadf1baedddfce6d988790b755
+Size: 893253
+SHA256sum: 30c3f1c6a25b1a86dfcd40ac8e2c2d806e7607e3b3b4312638f9dcdd42fc017d
 Description:  Qt6 Plugin libqsqlite
 
 Package: qt6-plugin-libqtuiotouchplugin
@@ -591,10 +591,10 @@ SourceName: qt6-plugin-libqtuiotouchplugin
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 35058
+Installed-Size: 35056
 Filename: qt6-plugin-libqtuiotouchplugin_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 35782
-SHA256sum: 4e1f44244089b57ad190a09ea35d0041746880bc5c3ad1c32aabd815f3f03c1c
+Size: 35771
+SHA256sum: 1eb0dead7754c86ade093819ad10a7cda3091f45cb3117b3444b3f9cdebddada
 Description:  Qt6 Plugin libqtuiotouchplugin
 
 Package: qt6-plugin-libqxdgdesktopportal
@@ -605,10 +605,10 @@ SourceName: qt6-plugin-libqxdgdesktopportal
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 38056
+Installed-Size: 38045
 Filename: qt6-plugin-libqxdgdesktopportal_6.6.1-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 38734
-SHA256sum: 223a3f9565ea160728be06a03e7726de1a42ccb910fd8f705ddd9ce02552fd70
+Size: 38728
+SHA256sum: 73030c512b404f952b37b236d3b0ee3ec9bcdfb8b6ad5a4857255eee9c9d5e9f
 Description:  Qt6 Plugin libqxdgdesktopportal
 
 Package: rblibtorrent2.0
@@ -658,10 +658,10 @@ LicenseFiles: LICENSE
 Section: net
 SourceDateEpoch: 1703587154
 Architecture: arm_cortex-a15_neon-vfpv4
-Installed-Size: 4706421
+Installed-Size: 4706417
 Filename: speedtest-go_1.6.10-1_arm_cortex-a15_neon-vfpv4.ipk
-Size: 4698794
-SHA256sum: 4ea2b0a2502c2aa542c71b4d74e5a81ccae645a9232b17dc9edcf93bd5deb7ce
+Size: 4698773
+SHA256sum: de6a48fc473c4f79a572bcf219b3bb67b65db13fa0b36e6127fd4d2b8d1ab562
 Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 

@@ -27,10 +27,10 @@ Require-User: alwaysonline:alwaysonline
 SourceDateEpoch: 1702876452
 Maintainer: muink <hukk1996@gmail.com>
 Architecture: aarch64_cortex-a53
-Installed-Size: 1794217
+Installed-Size: 1794213
 Filename: alwaysonline_1.2.0-20231217_aarch64_cortex-a53.ipk
-Size: 1791070
-SHA256sum: efaf0f5f9efc7bd5edadd318dc44a5a7149200b9ff1c749134acb52dec85300c
+Size: 1791135
+SHA256sum: ef5b0991a1c188c9ee7c0ffa9eb9e3ec92989c54e746982b0bcdf1086e9c7e6b
 Description:  AlwaysOnline is a HTTP and DNS server which mocks a lot network/internet/portal detection servers.
 
 Package: chinadns-ng
@@ -61,10 +61,10 @@ Section: net
 SourceDateEpoch: 1694242942
 Maintainer: muink <hukk1996@gmail.com>
 Architecture: aarch64_cortex-a53
-Installed-Size: 805816
+Installed-Size: 805812
 Filename: go-stun_0.1.4-9_aarch64_cortex-a53.ipk
-Size: 805675
-SHA256sum: 0023d3caf295498474a45e3b0c50a9ed664534f020ed94f86a822c9d7b55b7bc
+Size: 805678
+SHA256sum: fc6f4c93472820198d1463705313364c46fc6bae7cfe7fadc87bee789c0b31f7
 Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
  RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
  RFC 5389: Session Traversal Utilities for NAT (STUN)
@@ -94,10 +94,10 @@ SourceName: libQt6Concurrent
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 7380
+Installed-Size: 7383
 Filename: libQt6Concurrent_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 8145
-SHA256sum: 8f1d7c83edbbe39bfff383ec6a5a0c2a8916b596a0158cd8a1d501fc821f3e65
+Size: 8152
+SHA256sum: 154be279d13b7a768851ea5b47884dada708766a6019eb5f95ba693163d5afdc
 Description:  This package provides the Qt6 Concurrent v6.6.1 library.
 
 Package: libQt6Core
@@ -108,10 +108,10 @@ SourceName: libQt6Core
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 2746258
+Installed-Size: 2746260
 Filename: libQt6Core_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 2738557
-SHA256sum: c545c2820dabf48c84e965fc425bdedada28b4becb2ff884cb27476143d6b2a5
+Size: 2738555
+SHA256sum: 926caaf88590d472536aa4f733620d39dfaae0677b453a81d1bd6079dd0c1603
 Description:  This package provides the Qt6 Core v6.6.1 library.
 
 Package: libQt6DBus
@@ -122,10 +122,10 @@ SourceName: libQt6DBus
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 321949
+Installed-Size: 321952
 Filename: libQt6DBus_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 322359
-SHA256sum: 17a81a8156931885c1fa153660f7698484e212de5c3a5aceeaf42a0afe354ae0
+Size: 322368
+SHA256sum: 9e847ad49c66deb4478ee041375db12ef9b2bb5b009d76df3bbf157e1e9a9fb5
 Description:  This package provides the Qt6 DBus v6.6.1 library.
 
 Package: libQt6Gui
@@ -136,10 +136,10 @@ SourceName: libQt6Gui
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 2755132
+Installed-Size: 2755134
 Filename: libQt6Gui_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 2750959
-SHA256sum: b00365ce133ed97062e40dae6116883d4a10d0c9196f78c4648812b01576b67e
+Size: 2750960
+SHA256sum: d87fac680f3510a10243d0c4d9a0e9fcfeda415eb2c7f31a549b02471e9ee3ad
 Description:  This package provides the Qt6 Gui v6.6.1 library.
 
 Package: libQt6Network
@@ -150,10 +150,10 @@ SourceName: libQt6Network
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 762430
+Installed-Size: 762432
 Filename: libQt6Network_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 761494
-SHA256sum: 68b261ea2ce30c8eafe56e15bbe5c586646539ceb098df94441da8313a4f87cc
+Size: 761500
+SHA256sum: 2a86ea84c2758f95e90aa4e16f0574cc7170f7d6433d4f9a052e9daee6a9b12d
 Description:  This package provides the Qt6 Network v6.6.1 library.
 
 Package: libQt6PrintSupport
@@ -164,10 +164,10 @@ SourceName: libQt6PrintSupport
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 163876
+Installed-Size: 163880
 Filename: libQt6PrintSupport_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 163904
-SHA256sum: 5d33b965f613e6e356c41574ad7836b455a41d080c08558167ffbca1b3553589
+Size: 163913
+SHA256sum: c4574820ae179b2df90441324951569aa4be888ace0046038b3fbed125f9a77a
 Description:  This package provides the Qt6 PrintSupport v6.6.1 library.
 
 Package: libQt6Sql
@@ -178,10 +178,10 @@ SourceName: libQt6Sql
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 78590
+Installed-Size: 78593
 Filename: libQt6Sql_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 79391
-SHA256sum: 814a3a65bddd3864b420cf907c64897dc5dbd27bf5673865a9ab1045efe30833
+Size: 79388
+SHA256sum: a1d79a0fa5f0d7101e1e5a0433c5efed5f48cfeb848bbe43bc9379d5bd22c764
 Description:  This package provides the Qt6 Sql v6.6.1 library.
 
 Package: libQt6Test
@@ -192,10 +192,10 @@ SourceName: libQt6Test
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 128160
+Installed-Size: 128162
 Filename: libQt6Test_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 128671
-SHA256sum: 0e05d4aa27719c672a58cb6b282eb68f4269e7667c935a2d45397e378481b59f
+Size: 128669
+SHA256sum: 0dbd0329e0bc035739df5bb4443b65cb4e430bcd38180c54f5ccc0c7258f11db
 Description:  This package provides the Qt6 Test v6.6.1 library.
 
 Package: libQt6Widgets
@@ -206,10 +206,10 @@ SourceName: libQt6Widgets
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 3191649
+Installed-Size: 3191651
 Filename: libQt6Widgets_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 3184210
-SHA256sum: e7318ae4c008283b2f7c554928431a24239a711c0bf3cbe94a7b0b2cf554daeb
+Size: 3184187
+SHA256sum: bb03b89662b66eac242ba085f0d964b20a1e147c8021e57e5f829ba6f4a76faf
 Description:  This package provides the Qt6 Widgets v6.6.1 library.
 
 Package: libQt6Xml
@@ -220,10 +220,10 @@ SourceName: libQt6Xml
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 66588
+Installed-Size: 66590
 Filename: libQt6Xml_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 67275
-SHA256sum: 4fa6e388c0a0bad71ce9b2e363c808cf9bf0e5fb57e5013c9f87322854fcad8c
+Size: 67279
+SHA256sum: 718a36b060210b4ca2092415f639216e2c1e8eab376e6fce1063c7d44dcc1ec7
 Description:  This package provides the Qt6 Xml v6.6.1 library.
 
 Package: natmapt-client-script-deluge
@@ -489,10 +489,10 @@ Section: net
 SourceDateEpoch: 1701272128
 CPE-ID: cpe:/a:qbittorrent:qbittorrent
 Architecture: aarch64_cortex-a53
-Installed-Size: 7826329
+Installed-Size: 7826332
 Filename: qbittorrent_4.6.2-1_aarch64_cortex-a53.ipk
-Size: 7820915
-SHA256sum: 81cc324524390a41c272fadd14263c9cd9e6783d2126b2c2b1915082e4ad5f03
+Size: 7820918
+SHA256sum: 1d60cd747940517ea72c763a742ba7c7be68c3425bba04378f5b50ec97885e94
 Description:  qBittorrent is a bittorrent client programmed in C++ / Qt that uses
  libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg.
  It aims to be a good alternative to all other bittorrent clients out
@@ -507,10 +507,10 @@ SourceName: qt6-plugin-libqcertonlybackend
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 36502
+Installed-Size: 36504
 Filename: qt6-plugin-libqcertonlybackend_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 37267
-SHA256sum: d617462ffc008c73bd5c636478754835e0ffd271f939ed29c75395bc4eca5b0f
+Size: 37273
+SHA256sum: 9bd0bcb2864546d2fb5a5b371fd6e295fdaa4742fd4be6802bc1deff4d3ef83f
 Description:  Qt6 Plugin libqcertonlybackend
 
 Package: qt6-plugin-libqminimal
@@ -521,10 +521,10 @@ SourceName: qt6-plugin-libqminimal
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 9678
+Installed-Size: 9680
 Filename: qt6-plugin-libqminimal_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 10375
-SHA256sum: 281788248357bd6937f98948376752945551f1fe19d9272b9d76e9219e81936f
+Size: 10376
+SHA256sum: 20dd49e22767ac07df31e1f4540d2385b192bf6b6126e975b53da568015e4107
 Description:  Qt6 Plugin libqminimal
 
 Package: qt6-plugin-libqnetworkmanager
@@ -535,10 +535,10 @@ SourceName: qt6-plugin-libqnetworkmanager
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 27465
+Installed-Size: 27467
 Filename: qt6-plugin-libqnetworkmanager_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 28236
-SHA256sum: f500e5f7841676e35d2c61f7170e60703605f0d9ba431a3433f5565595a5f88f
+Size: 28231
+SHA256sum: eb4f88279f9c96ed6a05da4e53c05fece3c5d921228baee4f8e9bdb030a3aa9b
 Description:  Qt6 Plugin libqnetworkmanager
 
 Package: qt6-plugin-libqoffscreen
@@ -549,10 +549,10 @@ SourceName: qt6-plugin-libqoffscreen
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 37563
+Installed-Size: 37564
 Filename: qt6-plugin-libqoffscreen_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 38299
-SHA256sum: 211df6836506f96c91f61696cd92167f8d2a35771a7cbd9efbf7a64d364ed7b1
+Size: 38311
+SHA256sum: 331ba9a5af0a82438fb211c6c50c4fa41117214e94757cb37b5311f146ddf558
 Description:  Qt6 Plugin libqoffscreen
 
 Package: qt6-plugin-libqopensslbackend
@@ -563,10 +563,10 @@ SourceName: qt6-plugin-libqopensslbackend
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 115011
+Installed-Size: 115013
 Filename: qt6-plugin-libqopensslbackend_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 115502
-SHA256sum: 1382a719d3de635243ce5cf982f0de8f1e7fdf13da0c17569280ea8acd342c40
+Size: 115508
+SHA256sum: facfae9bc3f6e33d8400859187931635abe8a55cc234a07454f6d6d01200f81c
 Description:  Qt6 Plugin libqopensslbackend
 
 Package: qt6-plugin-libqsqlite
@@ -577,10 +577,10 @@ SourceName: qt6-plugin-libqsqlite
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 921357
+Installed-Size: 921359
 Filename: qt6-plugin-libqsqlite_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 921689
-SHA256sum: 448b98f16fbe5b619e15aae18a9342cd533e3cf1dfa3fa7ab0c499c08b54f021
+Size: 921699
+SHA256sum: d9ac258c21097032897439970f3b96b094a223e9cf3c3f929c9dda455db3a7db
 Description:  Qt6 Plugin libqsqlite
 
 Package: qt6-plugin-libqtuiotouchplugin
@@ -591,10 +591,10 @@ SourceName: qt6-plugin-libqtuiotouchplugin
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 36368
+Installed-Size: 36370
 Filename: qt6-plugin-libqtuiotouchplugin_6.6.1-1_aarch64_cortex-a53.ipk
 Size: 37113
-SHA256sum: ce857b01b84cc4e9daad305ef4da9b11967a949a9b108059cc6416822d22f1f0
+SHA256sum: 1020f86df1379a622a99d0e7d18facb6c32f17177cc96fe50f93b36db38a3658
 Description:  Qt6 Plugin libqtuiotouchplugin
 
 Package: qt6-plugin-libqxdgdesktopportal
@@ -605,10 +605,10 @@ SourceName: qt6-plugin-libqxdgdesktopportal
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: aarch64_cortex-a53
-Installed-Size: 43003
+Installed-Size: 43007
 Filename: qt6-plugin-libqxdgdesktopportal_6.6.1-1_aarch64_cortex-a53.ipk
-Size: 43788
-SHA256sum: 4b2baa6b598e7e43a4753eac12cb0e4c5804f220961ba400d4f347112c3a5a16
+Size: 43793
+SHA256sum: 86218e74238d14bce03244afabb655fd382d74c468aed36a0646499bf8060857
 Description:  Qt6 Plugin libqxdgdesktopportal
 
 Package: rblibtorrent2.0
@@ -658,10 +658,10 @@ LicenseFiles: LICENSE
 Section: net
 SourceDateEpoch: 1703587154
 Architecture: aarch64_cortex-a53
-Installed-Size: 4589371
+Installed-Size: 4589301
 Filename: speedtest-go_1.6.10-1_aarch64_cortex-a53.ipk
-Size: 4578958
-SHA256sum: 864e43d042bff62985fb91c6a907df22f54ac2ae97ca3896887d7a5bb5070c01
+Size: 4579021
+SHA256sum: 8709d4a53e3f80cc8acbb95ecfe6622766496c16a1d997ee9f898d1dbe417110
 Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 

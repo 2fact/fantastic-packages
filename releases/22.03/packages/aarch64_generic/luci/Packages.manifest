@@ -355,18 +355,18 @@ SHA256sum: 7cd512a82cc90b571c30bc0d1e41c96f2491454dc98c2067a8e34d85fdfc88ed
 Description:  A Web based File Manager in PHP
 
 Package: luci-app-tn-netports
-Version: 2.0.3
+Version: 2.0.5
 Depends: libc, luabitop
 Source: /feed/luci/luci-app-tn-netports
 SourceName: luci-app-tn-netports
 Section: luci
-SourceDateEpoch: 1694145910
+SourceDateEpoch: 1705909643
 Maintainer: OpenWrt LuCI community
 Architecture: all
-Installed-Size: 15698
-Filename: luci-app-tn-netports_2.0.3_all.ipk
-Size: 16460
-SHA256sum: b6b51b70ac3c74a757063a7a37a8d3c6e377858f806c92fe4c94e956f59fbc7a
+Installed-Size: 16124
+Filename: luci-app-tn-netports_2.0.5_all.ipk
+Size: 16933
+SHA256sum: 2f5a61a08fd88f91dfaa9af369fed9ef30863dbbbd3355d813831ee2b5d9799c
 Description:  Network ports status LuCI application
 
 Package: luci-app-xray-status
@@ -1171,45 +1171,45 @@ SHA256sum: a5d8377cddbd4b5f04c95d1a27bef096d8cbe254ae3340b665f031d5e5f77b78
 Description:  Translation for luci-app-tinyfilemanager - 繁體中文 (Chinese Traditional)
 
 Package: luci-i18n-tn-netports-ru
-Version: git-23.251.14710-193bb16
+Version: git-24.022.28043-1ffa72b
 Depends: libc, luci-app-tn-netports
 Source: /feed/luci/luci-app-tn-netports
 SourceName: luci-i18n-tn-netports-ru
 Section: luci
-SourceDateEpoch: 1694145910
+SourceDateEpoch: 1705909643
 Architecture: all
 Installed-Size: 1040
-Filename: luci-i18n-tn-netports-ru_git-23.251.14710-193bb16_all.ipk
-Size: 1854
-SHA256sum: 903a1aa60145d579bef2a9eab40c7704d42790728474ca8647bd92f5e8cfa8e5
+Filename: luci-i18n-tn-netports-ru_git-24.022.28043-1ffa72b_all.ipk
+Size: 1850
+SHA256sum: 8ae2443237f241a5672b688b2a1bfe5cd1b6d07df9b1c14da3074a3b9b7e377d
 Description:  Translation for luci-app-tn-netports - Русский (Russian)
 
 Package: luci-i18n-tn-netports-zh-cn
-Version: git-23.251.14710-193bb16
+Version: git-24.022.28043-1ffa72b
 Depends: libc, luci-app-tn-netports
 Source: /feed/luci/luci-app-tn-netports
 SourceName: luci-i18n-tn-netports-zh-cn
 Section: luci
-SourceDateEpoch: 1694145910
+SourceDateEpoch: 1705909643
 Architecture: all
-Installed-Size: 1191
-Filename: luci-i18n-tn-netports-zh-cn_git-23.251.14710-193bb16_all.ipk
-Size: 2027
-SHA256sum: 8a12168ffe8b21c7bc33f59966f4d68ce6a23608940ca61db81a3955fed6386c
+Installed-Size: 1192
+Filename: luci-i18n-tn-netports-zh-cn_git-24.022.28043-1ffa72b_all.ipk
+Size: 2029
+SHA256sum: cafd1888776200e7a94e9f6f641ff3fe6ce216fb4eee97b4fae712e1a8c1805e
 Description:  Translation for luci-app-tn-netports - 简体中文 (Chinese Simplified)
 
 Package: luci-i18n-tn-netports-zh-tw
-Version: git-23.251.14710-193bb16
+Version: git-24.022.28043-1ffa72b
 Depends: libc, luci-app-tn-netports
 Source: /feed/luci/luci-app-tn-netports
 SourceName: luci-i18n-tn-netports-zh-tw
 Section: luci
-SourceDateEpoch: 1694145910
+SourceDateEpoch: 1705909643
 Architecture: all
 Installed-Size: 1194
-Filename: luci-i18n-tn-netports-zh-tw_git-23.251.14710-193bb16_all.ipk
-Size: 2023
-SHA256sum: 0edc1fd0eab986401dec24d44b4f42cbaade50a8633ae8288276ed72102d9be3
+Filename: luci-i18n-tn-netports-zh-tw_git-24.022.28043-1ffa72b_all.ipk
+Size: 2027
+SHA256sum: 03c92668b4457ca5cc83cbafe95f737e40b71822c9537947e4fe4051b872a65d
 Description:  Translation for luci-app-tn-netports - 繁體中文 (Chinese Traditional)
 
 Package: luci-theme-argon

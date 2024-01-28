@@ -468,13 +468,13 @@ SourceName: plain-nginx
 License: MIT
 LicenseFiles: LICENSE
 Section: net
-SourceDateEpoch: 1705909725
+SourceDateEpoch: 1706342877
 Maintainer: muink <hukk1996@gmail.com>
 Architecture: all
 Installed-Size: 367
 Filename: plain-nginx_20231028_all.ipk
-Size: 1160
-SHA256sum: e085b0da747bbc23735b70491c0a18e8c4e7067cb1afc0977dc3f68296d63507
+Size: 1166
+SHA256sum: 09f7b93d4c78224662ec0d587b6d1015437818d2408e5d969f2d3697d74ac7ea
 Description:  Read text document directly
 
 Package: qbittorrent

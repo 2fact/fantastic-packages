@@ -16,10 +16,10 @@ Depends: libc
 License: MIT
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 1817293
+Installed-Size: 1817291
 Filename: alwaysonline_1.2.0-20231217_mipsel_24kc.ipk
-Size: 1813834
-SHA256sum: 1937c32c2867caf9ee6996af8e70c0080e229c79cb3ca9c2b34e93591c02f851
+Size: 1813807
+SHA256sum: de2cd7ac4a386b8a4e7b910e4b6e45d70236b9ed5f7bb61d389631a482f2fcdc
 Description:  AlwaysOnline is a HTTP and DNS server which mocks a lot network/internet/portal detection servers.
 
 Package: chinadns-ng
@@ -40,10 +40,10 @@ Depends: libc
 License: Apache-2.0
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 823328
+Installed-Size: 823360
 Filename: go-stun_0.1.4-9_mipsel_24kc.ipk
-Size: 823233
-SHA256sum: c2e67312435210f500ecae9c8dc02bffcf7bff32144bb23936034074b24d4800
+Size: 823307
+SHA256sum: dfdd384a109b7b480e4db41a241b44a9127a31efe78b72c9a9bb0d1ce6c35c30
 Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
  RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
  RFC 5389: Session Traversal Utilities for NAT (STUN)
@@ -66,10 +66,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 8166
+Installed-Size: 8163
 Filename: libQt6Concurrent_6.6.1-1_mipsel_24kc.ipk
-Size: 8808
-SHA256sum: 0fa0ebec3a7f885d408732975a210ce7f2783458ddbbee94a37aaf00e3a0b491
+Size: 8817
+SHA256sum: ae7944952ab95704a950e70249204518186f964c119d91b9fac0fc8e3546434f
 Description:  This package provides the Qt6 Concurrent v6.6.1 library.
 
 Package: libQt6Core
@@ -77,10 +77,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libpcre2-16
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 2846657
+Installed-Size: 2846654
 Filename: libQt6Core_6.6.1-1_mipsel_24kc.ipk
-Size: 2835843
-SHA256sum: acd9aa05c66a4a329bf7ef6ca567a1317c15725708d3cb5286f55d118887f46b
+Size: 2835828
+SHA256sum: bebe3633a0439fe547740759cc918003da400220200c27b2c9152fff73069f7d
 Description:  This package provides the Qt6 Core v6.6.1 library.
 
 Package: libQt6DBus
@@ -88,10 +88,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 302917
+Installed-Size: 302914
 Filename: libQt6DBus_6.6.1-1_mipsel_24kc.ipk
-Size: 302580
-SHA256sum: 5d0b1891da8408bf09c7f80be09072124c6f3d44a9c52af9761b8635ebca2313
+Size: 302556
+SHA256sum: 559cd2ec3821c63aebacda4dc8af092653f0f9ff1db4d4b966c2ece428f0db98
 Description:  This package provides the Qt6 DBus v6.6.1 library.
 
 Package: libQt6Gui
@@ -99,10 +99,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6DBus, libdrm, libfreetype
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 2755439
+Installed-Size: 2755438
 Filename: libQt6Gui_6.6.1-1_mipsel_24kc.ipk
 Size: 2747366
-SHA256sum: ca81e347a9bcdb9376e296291825450209bc8e15801b5f3ff4797a8a3f00f0c2
+SHA256sum: 652a46dd37930813d3ef05ffbc9731cb0bce730e5db7f1cbda3d02a68453bb0d
 Description:  This package provides the Qt6 Gui v6.6.1 library.
 
 Package: libQt6Network
@@ -110,10 +110,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core, libopenssl3, krb5-libs
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 713477
+Installed-Size: 713473
 Filename: libQt6Network_6.6.1-1_mipsel_24kc.ipk
-Size: 711947
-SHA256sum: e8c2b64e603e92caf980b7020acc3500b974ff94e5d5cf08475a68847c050368
+Size: 711949
+SHA256sum: b285b8a0e3ef5d7dde14a84714892e9456f52e1298017eba8d8af29157d41620
 Description:  This package provides the Qt6 Network v6.6.1 library.
 
 Package: libQt6PrintSupport
@@ -121,10 +121,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Widgets
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 151743
+Installed-Size: 151741
 Filename: libQt6PrintSupport_6.6.1-1_mipsel_24kc.ipk
-Size: 152204
-SHA256sum: 091250df77716d34030755f0d7cd6791137bd653fc08850393f95ed1ab7d61d6
+Size: 152211
+SHA256sum: 4c985a62a1aca57c69d51767673be800d7f3fd3a40e28c240b9855e51412999b
 Description:  This package provides the Qt6 PrintSupport v6.6.1 library.
 
 Package: libQt6Sql
@@ -134,8 +134,8 @@ Section: libs
 Architecture: mipsel_24kc
 Installed-Size: 71477
 Filename: libQt6Sql_6.6.1-1_mipsel_24kc.ipk
-Size: 72171
-SHA256sum: 8b2d5346b41eb83c0bf80d7919ffd7a0507705ec5594a9e696767a0550d7fa72
+Size: 72167
+SHA256sum: c987feb4baea6e734238e5992225de3016251c57fddd1f98a1799d80e7604560
 Description:  This package provides the Qt6 Sql v6.6.1 library.
 
 Package: libQt6Test
@@ -143,10 +143,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 134864
+Installed-Size: 134862
 Filename: libQt6Test_6.6.1-1_mipsel_24kc.ipk
-Size: 135253
-SHA256sum: 8909ec848a638102c3fc5a7afcc86444a2f8fc87a177a466ffd5fc3c50288b02
+Size: 135236
+SHA256sum: 90bec17a765fa01654f882f573b1a65fea2990372f99f27a832f629990998bab
 Description:  This package provides the Qt6 Test v6.6.1 library.
 
 Package: libQt6Widgets
@@ -154,10 +154,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 3076981
+Installed-Size: 3076968
 Filename: libQt6Widgets_6.6.1-1_mipsel_24kc.ipk
-Size: 3066350
-SHA256sum: 48b14f7c60078dfdf77537cef12f56579da5d244b4248366cf7def870b61cda7
+Size: 3066354
+SHA256sum: 302795ac455625ae8f28f61d22505483d1f251fe45c453017cc208390b1db989
 Description:  This package provides the Qt6 Widgets v6.6.1 library.
 
 Package: libQt6Xml
@@ -165,10 +165,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Core
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 58639
+Installed-Size: 58637
 Filename: libQt6Xml_6.6.1-1_mipsel_24kc.ipk
 Size: 59192
-SHA256sum: 4b0b12d245084483098cbaaafebe4f191581944bb05f2b3a52862428a028ce0c
+SHA256sum: 65736eb9424dd0d3033ed600e3e4522ff89754cb38e1e06baea49724fe320ad6
 Description:  This package provides the Qt6 Xml v6.6.1 library.
 
 Package: natmapt-client-script-deluge
@@ -362,8 +362,8 @@ CPE-ID: cpe:/a:qbittorrent:qbittorrent
 Architecture: mipsel_24kc
 Installed-Size: 7683790
 Filename: qbittorrent_4.6.2-1_mipsel_24kc.ipk
-Size: 7679545
-SHA256sum: 32dbde5371e742ed7e28a129861f46053ed6d9bad41a7dacb4d4c1f016f71a42
+Size: 7679546
+SHA256sum: b8b34d9f48f7f3eee3efa8e49228368035fe568630e7b32e8751d36aba0dbfa9
 Description:  qBittorrent is a bittorrent client programmed in C++ / Qt that uses
  libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg.
  It aims to be a good alternative to all other bittorrent clients out
@@ -375,10 +375,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Network
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 35945
+Installed-Size: 35942
 Filename: qt6-plugin-libqcertonlybackend_6.6.1-1_mipsel_24kc.ipk
-Size: 36544
-SHA256sum: 4bffa39ff90227c7410191e3ab64c4c5304c4626d2b7507eda18726033a6b980
+Size: 36549
+SHA256sum: 326336bfd48f61b44d76813d339a8271cb6fb243ccb5bf7a596f88c300a9b3f6
 Description:  Qt6 Plugin libqcertonlybackend
 
 Package: qt6-plugin-libqminimal
@@ -386,10 +386,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 8498
+Installed-Size: 8497
 Filename: qt6-plugin-libqminimal_6.6.1-1_mipsel_24kc.ipk
-Size: 9125
-SHA256sum: 08cbcabb5f6e281b7bdbefbaa73374db8206cfbcec39e3c53f47f5d71bf6d05a
+Size: 9130
+SHA256sum: af95d190beb7c66f5a71d60eb3ac380029031bb506421c8c759f722ee75d7408
 Description:  Qt6 Plugin libqminimal
 
 Package: qt6-plugin-libqnetworkmanager
@@ -399,8 +399,8 @@ Section: libs
 Architecture: mipsel_24kc
 Installed-Size: 25338
 Filename: qt6-plugin-libqnetworkmanager_6.6.1-1_mipsel_24kc.ipk
-Size: 25998
-SHA256sum: 381d959fd8a55b47471853ae456ee7e2c69eadefc1c78a39e8844d70aaf87a4c
+Size: 26001
+SHA256sum: acc7caa66e36203d80212604e60546c1dcc57a9a887833c334a991408e9d4abd
 Description:  Qt6 Plugin libqnetworkmanager
 
 Package: qt6-plugin-libqoffscreen
@@ -408,10 +408,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 36140
+Installed-Size: 36139
 Filename: qt6-plugin-libqoffscreen_6.6.1-1_mipsel_24kc.ipk
-Size: 36631
-SHA256sum: b997a08c8ac10bf985fb514490b4e912e440a342fb2c9343a1f6a4508e286b5a
+Size: 36667
+SHA256sum: d280a9576ba142ff930c3b1826ec262ea6d0be71d3bcb0960c4120e50b2f3731
 Description:  Qt6 Plugin libqoffscreen
 
 Package: qt6-plugin-libqopensslbackend
@@ -419,10 +419,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Network
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 112627
+Installed-Size: 112626
 Filename: qt6-plugin-libqopensslbackend_6.6.1-1_mipsel_24kc.ipk
-Size: 112957
-SHA256sum: 2da3f8b76e177d46fb66a2b500636fabe761d0123904c161c4c73339e71e280d
+Size: 112983
+SHA256sum: 105f582bc4e199cc19309fbc539dce505f4ddea648dc24a81126ec1e3b2fb8d1
 Description:  Qt6 Plugin libqopensslbackend
 
 Package: qt6-plugin-libqsqlite
@@ -430,10 +430,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Sql
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 999495
+Installed-Size: 999489
 Filename: qt6-plugin-libqsqlite_6.6.1-1_mipsel_24kc.ipk
-Size: 998382
-SHA256sum: 47c69cbfb80ae9820e8059bb45855fc1eb7ce6212e7e424b8b702ae118fa43b4
+Size: 998389
+SHA256sum: a68253e005d3e2f50de5814ef62299f1d332316f0a8b73549a12a2a43b555441
 Description:  Qt6 Plugin libqsqlite
 
 Package: qt6-plugin-libqtuiotouchplugin
@@ -441,10 +441,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui, libQt6Network
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 38625
+Installed-Size: 38622
 Filename: qt6-plugin-libqtuiotouchplugin_6.6.1-1_mipsel_24kc.ipk
-Size: 39239
-SHA256sum: f8f79d283c5693d622b8aa89fa91efd4dcb1a9b75e9c6ac44e2dcb996fa6a1fa
+Size: 39243
+SHA256sum: 053ad47b39f1af82582cb45bb8169bd13ae21f282583a3cb721db34f8c8bc1c3
 Description:  Qt6 Plugin libqtuiotouchplugin
 
 Package: qt6-plugin-libqxdgdesktopportal
@@ -452,10 +452,10 @@ Version: 6.6.1-1
 Depends: libc, libatomic1, libstdcpp6, zlib, libQt6Gui
 Section: libs
 Architecture: mipsel_24kc
-Installed-Size: 39984
+Installed-Size: 39982
 Filename: qt6-plugin-libqxdgdesktopportal_6.6.1-1_mipsel_24kc.ipk
-Size: 40698
-SHA256sum: 0b033981319757dbbe368277e4463434104a2ccb804e1900ecd0a7c1e45afffd
+Size: 40693
+SHA256sum: 0f3a6eeb2ffa8ecce0497d00efbc514da0be47877fa1b07e36a3ff183a1f3190
 Description:  Qt6 Plugin libqxdgdesktopportal
 
 Package: rblibtorrent2.0
@@ -492,10 +492,10 @@ Depends: libc, ca-bundle
 License: MIT
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 4702575
+Installed-Size: 4702576
 Filename: speedtest-go_1.6.10-1_mipsel_24kc.ipk
-Size: 4691973
-SHA256sum: 2e7206d4f41b4989e799d6648551a8cc51f11ea5ae2e5606bcb31f5305414f65
+Size: 4692012
+SHA256sum: 643e0b5bf6cf37c4906273e839a74d1c66dbba9325a727ea6e111c45e049c95b
 Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 

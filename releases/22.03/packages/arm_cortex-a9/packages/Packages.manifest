@@ -27,10 +27,10 @@ Require-User: alwaysonline:alwaysonline
 SourceDateEpoch: 1702876452
 Maintainer: muink <hukk1996@gmail.com>
 Architecture: arm_cortex-a9
-Installed-Size: 1840746
+Installed-Size: 1840815
 Filename: alwaysonline_1.2.0-20231217_arm_cortex-a9.ipk
-Size: 1837934
-SHA256sum: 09369f65eb9834e9fd537a01659b8b070aba40ca0dda7e75de7597ad396285e6
+Size: 1838109
+SHA256sum: 513d1a8603ea901242c0363c1fe7b93981cdf85dfb7512ef64428967b7f09ad3
 Description:  AlwaysOnline is a HTTP and DNS server which mocks a lot network/internet/portal detection servers.
 
 Package: chinadns-ng
@@ -61,10 +61,10 @@ Section: net
 SourceDateEpoch: 1694242942
 Maintainer: muink <hukk1996@gmail.com>
 Architecture: arm_cortex-a9
-Installed-Size: 845230
+Installed-Size: 845231
 Filename: go-stun_0.1.4-9_arm_cortex-a9.ipk
-Size: 845653
-SHA256sum: fbe7e2246b5af61099ef8b8700b44357dbf5937d16109f0a0d2211fc55466374
+Size: 845683
+SHA256sum: 4dbbf61c54a36f31a4dcf95cf79493d738b912cdfd470af3ea7e84f2b60f8424
 Description:  go-stun is a STUN (RFC 3489, 5389) client implementation in golang (a.k.a. UDP hole punching).
  RFC 3489: STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)
  RFC 5389: Session Traversal Utilities for NAT (STUN)
@@ -96,8 +96,8 @@ SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
 Installed-Size: 6811
 Filename: libQt6Concurrent_6.6.1-1_arm_cortex-a9.ipk
-Size: 7565
-SHA256sum: 126a0331a7aca1b996346cebb68e6c3ecfef3246b5b6e9bae62758213b67a2f3
+Size: 7564
+SHA256sum: d8b9468d6b4aa03162f05f5fef4636afe34feb9d201a0d2ce3d11f88d6f91094
 Description:  This package provides the Qt6 Concurrent v6.6.1 library.
 
 Package: libQt6Core
@@ -110,8 +110,8 @@ SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
 Installed-Size: 2562311
 Filename: libQt6Core_6.6.1-1_arm_cortex-a9.ipk
-Size: 2547591
-SHA256sum: 052fd4e3169a3568db867fed530b9cdbd20d5dc5c1dc3fffd5b15c239e5229be
+Size: 2547589
+SHA256sum: 84bd513e7af4eae882dfbbdac2ccdda7ffd09c1f193dde82a69ef7f4ef0f835c
 Description:  This package provides the Qt6 Core v6.6.1 library.
 
 Package: libQt6DBus
@@ -124,8 +124,8 @@ SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
 Installed-Size: 294887
 Filename: libQt6DBus_6.6.1-1_arm_cortex-a9.ipk
-Size: 293668
-SHA256sum: 1afcb9ec95c868d9a846ec8e139dff499f8d4e4f60435a47a9e452169fa5cc79
+Size: 293666
+SHA256sum: 04942dfee114f5895c57a0cbff231407f956fca2a71cc1bf64b4c88dca031c00
 Description:  This package provides the Qt6 DBus v6.6.1 library.
 
 Package: libQt6Gui
@@ -136,10 +136,10 @@ SourceName: libQt6Gui
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
-Installed-Size: 2637436
+Installed-Size: 2637435
 Filename: libQt6Gui_6.6.1-1_arm_cortex-a9.ipk
 Size: 2623852
-SHA256sum: fbde63d5186fbeae5a9aaa33c7e6cc98d408656b185822f7922717aab424c241
+SHA256sum: 8d5df1719f3a87e6a7977565991165ec51ae7bc4211bb7ac404e92d43304a70d
 Description:  This package provides the Qt6 Gui v6.6.1 library.
 
 Package: libQt6Network
@@ -150,10 +150,10 @@ SourceName: libQt6Network
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
-Installed-Size: 686629
+Installed-Size: 686628
 Filename: libQt6Network_6.6.1-1_arm_cortex-a9.ipk
-Size: 681375
-SHA256sum: d2eebcdfa4c1a0b28e8f3d9597dfb6c21384c9a07a5fda828ad9568c45eb6b3d
+Size: 681370
+SHA256sum: c2e3a5925f49335cc8dd0df0164bf76761dad6a92a8d57670c2c81e5d6fc5e5b
 Description:  This package provides the Qt6 Network v6.6.1 library.
 
 Package: libQt6PrintSupport
@@ -164,10 +164,10 @@ SourceName: libQt6PrintSupport
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
-Installed-Size: 148910
+Installed-Size: 148911
 Filename: libQt6PrintSupport_6.6.1-1_arm_cortex-a9.ipk
 Size: 148277
-SHA256sum: ffa16b91320a846b23bfba42fc27f71cb500a2040951bfe4d1da00b70f170033
+SHA256sum: c5d8314fdb2473640a2fdd7307ec210d18a9fe85963b99a8a42d847958c844aa
 Description:  This package provides the Qt6 PrintSupport v6.6.1 library.
 
 Package: libQt6Sql
@@ -180,8 +180,8 @@ SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
 Installed-Size: 69677
 Filename: libQt6Sql_6.6.1-1_arm_cortex-a9.ipk
-Size: 70362
-SHA256sum: 39d5794fd038a4ebd82d2aaa171e9ee91c75f2cf42dd00c7ec8c48ff3236223a
+Size: 70370
+SHA256sum: 93abec77c527cc54fcc7d5ab942fb4b058180485d06de056451b3840cad012fc
 Description:  This package provides the Qt6 Sql v6.6.1 library.
 
 Package: libQt6Test
@@ -194,8 +194,8 @@ SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
 Installed-Size: 123475
 Filename: libQt6Test_6.6.1-1_arm_cortex-a9.ipk
-Size: 123622
-SHA256sum: 62d83e7a881112cae144de3b318582a04e80775b272e5e5d8acf2ba27838fa33
+Size: 123621
+SHA256sum: 96601e128a415879bb43a7576e5fa8ad7f3977a19e09d297ad382d928654a40e
 Description:  This package provides the Qt6 Test v6.6.1 library.
 
 Package: libQt6Widgets
@@ -206,10 +206,10 @@ SourceName: libQt6Widgets
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
-Installed-Size: 2861141
+Installed-Size: 2861139
 Filename: libQt6Widgets_6.6.1-1_arm_cortex-a9.ipk
-Size: 2842686
-SHA256sum: af3a3f5f3402f20a3458e8c65ecbd4fe3058e7ca78d8041fcc8fba3f5a6376e6
+Size: 2842689
+SHA256sum: 517f4493fbbe7b166ac2ba1dca735cdaab45746eaf7871c50c2c23f7cbe27490
 Description:  This package provides the Qt6 Widgets v6.6.1 library.
 
 Package: libQt6Xml
@@ -222,8 +222,8 @@ SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
 Installed-Size: 54404
 Filename: libQt6Xml_6.6.1-1_arm_cortex-a9.ipk
-Size: 55028
-SHA256sum: 1821eddf0abceed1ad2dbe37aa3f7a963b1836b92349164941febb2bbbc3dd3c
+Size: 55032
+SHA256sum: 17153d38c8064103d779d851642534b45991ee57be5505cb6c825587e2a76196
 Description:  This package provides the Qt6 Xml v6.6.1 library.
 
 Package: natmapt-client-script-deluge
@@ -489,10 +489,10 @@ Section: net
 SourceDateEpoch: 1701272128
 CPE-ID: cpe:/a:qbittorrent:qbittorrent
 Architecture: arm_cortex-a9
-Installed-Size: 7750979
+Installed-Size: 7750976
 Filename: qbittorrent_4.6.2-1_arm_cortex-a9.ipk
-Size: 7747595
-SHA256sum: fdc01405a13c00c8db662c97a428487e7fede5f26d25a5dcda95e5b312d5c1c6
+Size: 7747576
+SHA256sum: 0851af6f6445960260fe076d0d35b56860d8c91944cc09da0aebe4be88b3013b
 Description:  qBittorrent is a bittorrent client programmed in C++ / Qt that uses
  libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg.
  It aims to be a good alternative to all other bittorrent clients out
@@ -509,8 +509,8 @@ SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
 Installed-Size: 33511
 Filename: qt6-plugin-libqcertonlybackend_6.6.1-1_arm_cortex-a9.ipk
-Size: 34310
-SHA256sum: 086aea40c192e3515fc21288ace7cfcca3ee54b4d07cd44003c4840afde44178
+Size: 34314
+SHA256sum: 5125dcba7a8b3caa505778c84bf90bbb52eb2e49282711491878a55c695a15c9
 Description:  Qt6 Plugin libqcertonlybackend
 
 Package: qt6-plugin-libqminimal
@@ -523,8 +523,8 @@ SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
 Installed-Size: 7885
 Filename: qt6-plugin-libqminimal_6.6.1-1_arm_cortex-a9.ipk
-Size: 8623
-SHA256sum: 0e1390c0eaecbcd60c9bc1984190543dc25372c2453f80c88184870f7a9b5b68
+Size: 8630
+SHA256sum: 85edb69a9603f383f93e79881a0b2deeb75c4c31d608f96ae40863a3a7e3c5df
 Description:  Qt6 Plugin libqminimal
 
 Package: qt6-plugin-libqnetworkmanager
@@ -535,10 +535,10 @@ SourceName: qt6-plugin-libqnetworkmanager
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
-Installed-Size: 24048
+Installed-Size: 24046
 Filename: qt6-plugin-libqnetworkmanager_6.6.1-1_arm_cortex-a9.ipk
-Size: 24740
-SHA256sum: 2ff4c3622a1a16ef0f52e6e3b8b1260415ff9b4b2836b2e0cc7fc47efb302009
+Size: 24734
+SHA256sum: f0ab244a7f0e7f3041a2a64365e876c6c50a0e8f0771025f1f8a35a4d1e1b531
 Description:  Qt6 Plugin libqnetworkmanager
 
 Package: qt6-plugin-libqoffscreen
@@ -551,8 +551,8 @@ SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
 Installed-Size: 33573
 Filename: qt6-plugin-libqoffscreen_6.6.1-1_arm_cortex-a9.ipk
-Size: 34290
-SHA256sum: a6040776f334eaebacd8b4f2136e0e1a8732b95da225285470af638e140a94d1
+Size: 34112
+SHA256sum: 2b58d21eb3632c552b1db6cae861be3443031f77d2a3f63a8ce1368f4d578d6f
 Description:  Qt6 Plugin libqoffscreen
 
 Package: qt6-plugin-libqopensslbackend
@@ -563,10 +563,10 @@ SourceName: qt6-plugin-libqopensslbackend
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
-Installed-Size: 107419
+Installed-Size: 107417
 Filename: qt6-plugin-libqopensslbackend_6.6.1-1_arm_cortex-a9.ipk
-Size: 107408
-SHA256sum: b9273b02d8b0f1520fe1fc0515f88e3b4f471d342506101303de23d34d6da1d0
+Size: 107399
+SHA256sum: 4c98ade9f59a0567fdec1efb221ba7b7312897433cf9149b86e609ccfbad59ea
 Description:  Qt6 Plugin libqopensslbackend
 
 Package: qt6-plugin-libqsqlite
@@ -579,8 +579,8 @@ SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
 Installed-Size: 886625
 Filename: qt6-plugin-libqsqlite_6.6.1-1_arm_cortex-a9.ipk
-Size: 886301
-SHA256sum: f29b4041cc487dae90ccfd91aa521e88a5795805e747d40a66db60088f13e9d2
+Size: 886299
+SHA256sum: bc41e112ed9514fc0457bbfe3c613f3a6bf29533e8c0fcc0879c0972b18faba3
 Description:  Qt6 Plugin libqsqlite
 
 Package: qt6-plugin-libqtuiotouchplugin
@@ -591,10 +591,10 @@ SourceName: qt6-plugin-libqtuiotouchplugin
 Section: libs
 SourceDateEpoch: 1701272128
 Architecture: arm_cortex-a9
-Installed-Size: 35029
+Installed-Size: 35028
 Filename: qt6-plugin-libqtuiotouchplugin_6.6.1-1_arm_cortex-a9.ipk
-Size: 35793
-SHA256sum: d11b5d9961578d581cca0e6486695ee69864efceedeb419c65f5df146b97191e
+Size: 35784
+SHA256sum: 7e0cf5dcb8818b69109db2f8fdb27253f18e0f25e73aeea79b1d4388e4e626e3
 Description:  Qt6 Plugin libqtuiotouchplugin
 
 Package: qt6-plugin-libqxdgdesktopportal
@@ -608,7 +608,7 @@ Architecture: arm_cortex-a9
 Installed-Size: 37660
 Filename: qt6-plugin-libqxdgdesktopportal_6.6.1-1_arm_cortex-a9.ipk
 Size: 38326
-SHA256sum: 4b326a176edaff5bc27990554c146c40fa10ab3b31744b76daec2067939f58a4
+SHA256sum: 014845bd9e375c1b06052bda77d1ea9f3a486b984c92e6ce725bdccf278178e3
 Description:  Qt6 Plugin libqxdgdesktopportal
 
 Package: rblibtorrent2.0
@@ -658,10 +658,10 @@ LicenseFiles: LICENSE
 Section: net
 SourceDateEpoch: 1703587154
 Architecture: arm_cortex-a9
-Installed-Size: 4739530
+Installed-Size: 4739543
 Filename: speedtest-go_1.6.10-1_arm_cortex-a9.ipk
-Size: 4732483
-SHA256sum: 87a739bb9911ae1e521a6215f153835f2a0568390e5bf844f230913761fe86cf
+Size: 4731993
+SHA256sum: a70ce4719e1580350f228e4b80d85182590093310a79bbcc180fbde9594ff3de
 Description:  Command Line Interface and pure Go API to
  Test Internet Speed using speedtest.net
 
